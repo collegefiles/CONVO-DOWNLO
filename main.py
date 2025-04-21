@@ -15,7 +15,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # Telegram Bot Token - REPLACE THIS WITH YOUR ACTUAL TOKEN
-TOKEN = ""  # Get from @BotFather
+TOKEN = "7769945024:AAFJQDHv0HhaheienRwNqcYDUMwIMxpAjo8"  # Get from @BotFather
 
 # Initialize Instaloader
 L = instaloader.Instaloader()
